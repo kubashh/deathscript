@@ -1,3 +1,6 @@
+import { Console } from "./Console"
+import { DropFile } from "./DropFile"
+
 export const App = () => {
   return (
     <div className="App">
@@ -5,6 +8,8 @@ export const App = () => {
         <h1>
           Hello, DeathScript!
         </h1>
+        <DropFile />
+        <Console />
       </header>
     </div>
   )
