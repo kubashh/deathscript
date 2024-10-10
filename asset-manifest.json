@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/deathscript/static/css/main.c8be4148.css",
-    "main.js": "/deathscript/static/js/main.6a53c41b.js",
+    "main.js": "/deathscript/static/js/main.a17e6f46.js",
     "index.html": "/deathscript/index.html",
     "main.c8be4148.css.map": "/deathscript/static/css/main.c8be4148.css.map",
-    "main.6a53c41b.js.map": "/deathscript/static/js/main.6a53c41b.js.map"
+    "main.a17e6f46.js.map": "/deathscript/static/js/main.a17e6f46.js.map"
   },
   "entrypoints": [
     "static/css/main.c8be4148.css",
-    "static/js/main.6a53c41b.js"
+    "static/js/main.a17e6f46.js"
   ]
 }
